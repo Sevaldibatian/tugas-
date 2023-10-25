@@ -1,3 +1,7 @@
+%nama:sevaldi batian
+%nim:112022121
+%kelas:c
+
 clear
 clc
 %matrix
