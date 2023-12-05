@@ -12,5 +12,5 @@ B = zeros(3,3)
 C = ones(4,4)
 % matrik 3x4 elemen terdistribusi antara 0 dan 1
 D = rand(3,4)
-%matrix 3x4  elemen terdistribusi normal
+%matrix 3x4  elemen terdistribusinormal
 E = randn(3,4)
