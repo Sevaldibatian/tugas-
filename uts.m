@@ -32,7 +32,7 @@ sol = dsolve(ode);
 disp('Penyelesaian umum dari persamaan diferensial:')
 disp(sol)
 
-%soal 2 c
+%soal 1 c
 % Tentukan simbol-simbol yang digunakan dalam persamaan
 syms t y(t)
 
